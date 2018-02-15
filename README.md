@@ -2,6 +2,6 @@
 
 # Best practices
 
-#Image Gallery
+# Image Gallery
 
 # Async API Data
