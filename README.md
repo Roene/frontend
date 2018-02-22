@@ -8,8 +8,10 @@
 * Doctype
 * Validation
 ## CSS
+* Meerdere stylesheets gebruiken
 
 ## Javascript
+* Logische namen voor Variabele
 
 # Image Gallery
 
